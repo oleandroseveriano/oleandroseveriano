@@ -16,6 +16,5 @@ Clique no link abaixo e veja um pouco da minha jornada com tecnologia:
 <img align="center alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 "/>
-</div>
 <br>
 Profissional a 10 anos atuando com suporte ao usuario e que depois de 10 anos formado resolveu mergulhar no mundo do desenvolvimento de UX 
