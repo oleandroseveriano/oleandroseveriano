@@ -6,7 +6,7 @@ Clique no link abaixo e veja um pouco da minha jornada com tecnologia:
 
 
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleandroseveriano&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleandroseveriano)](https://github.com/oleandroseveriano/github-readme-stats)
+
 
 ## Tecnologias que estou aprendendo:
 
